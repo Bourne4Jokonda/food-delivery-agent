@@ -1,0 +1,13 @@
+﻿{
+  "name": "food-delivery-agent",
+  "version": "1.0.0",
+  "description": "Tag-based food delivery knowledge search with GigaChat stub",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fuse.js": "^7.1.0"
+  }
+}

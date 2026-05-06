@@ -1,0 +1,5 @@
+{
+  "llmProvider": "gigachat",
+  "kbPath": "./knowledge_base",
+  "defaultTopK": 3
+}
