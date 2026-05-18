@@ -1,5 +1,23 @@
 {
   "llmProvider": "gigachat",
   "kbPath": "./knowledge_base",
-  "defaultTopK": 3
+  "defaultTopK": 3,
+  "delivery_free_from": 1000,
+  "delivery_fee": 200,
+  "pickup_address": "ул. Гагарина, 10 (ТЦ «Салют»), 10:00–22:00",
+  "menu": {
+    "🍕 Пиццы": [
+      { "name": "Маргарита", "price": 450 },
+      { "name": "Диабло", "price": 550 },
+      { "name": "Пепперони", "price": 500 }
+    ],
+    "🍝 Паста": [
+      { "name": "Карбонара", "price": 400 },
+      { "name": "Классическая", "price": 350 }
+    ],
+    "🥤 Напитки": [
+      { "name": "Кола", "price": 100 },
+      { "name": "Сок", "price": 80 }
+    ]
+  }
 }
